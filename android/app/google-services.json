@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "113202897594",
+    "project_id": "medassist-7d88f",
+    "storage_bucket": "medassist-7d88f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113202897594:android:23b39c9c522e4aa26f5883",
+        "android_client_info": {
+          "package_name": "com.example.med_assist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113202897594-q88hfp0tutg85vsqhl815m4ag4hquusr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcPX8B5tJfQAl4m4QWWpCWdpyUB25FcF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113202897594-q88hfp0tutg85vsqhl815m4ag4hquusr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "medassistchatbot-wpds",
+  "private_key_id": "a3d506f42ca225dba59d9028e48abf83ba35fa2d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCy+9dOLXTyD61p\nF7AsRZEiVP5fERjhyH+bk5iXzhdtwdj59mReiHpqBK+Y8tcq2vGxocXZpyH86B0F\no+17/yCvzemQb+rBDAfIwG2OstzkT5PnM4dF8Qu7MylhceZlVDeOJUaydPfAVvuI\nlNoukFfUaWIdHGlzIQZLAi+W9KZK7M1O/fjR+VMNfZN8Vrkb4yQTjBFQo3Z2cLwx\nnGi18/dPH8E18qj4P7NjVY2PCshaUTAD+goqEgSXyK+xJwRmIEt6j+6s7ltJl3XH\nZOjsfKLPWn9LioQkRvIwEJgdJKrbezO4mICvjIkibLJ98fGnJVRDIsU8gGcpeisc\n+YrSDT1zAgMBAAECggEAU2lGZ6qLi5t+xzFA6wDoqEVP3mILZH2Z6pkYTfa/uGjU\ng3kuQVf9JJdWdkMFv3UVmiC4Ibzf/Ar4K36/2D+HriaaKLPfhWPj5My4wf3dL5Fe\nbir3acLyIqWvLTh1lNdwpI/+qIAWTc67nmUwYO7n35fVH5f0FLFZS2+TWhhdvyBf\ns8VCqFb+3EWc8bd1hAAkF136OXbFpMBf7WbPb9D9/glz08wJw0UmZwzKJVAiUoon\nhRNZPcO7m/jXTmEFulX0xl6GRiOYbj7ux6h+gonoZ14ZitsGycyiANqIrcwYIRUa\nkdn0/lfn0t8y+/vuUdfTsZKgoSbYVpyp+BbixlFjgQKBgQDvVHtSiOM/hV+ekOCv\nGrKtHSKXtJCWoAoz2Kof9rVeziFw6a5cuGlZP3TfSMTFngxKeZWUv7Gmhqmgrapz\noVP9rhqG/3IwmQaD8RexfCZpGH54XyKHsNHTQF6nHNIkqoPkn6UKBn3EcME5XbjL\nzD6KIqjzbBTq2/2ewzhqX8nCEwKBgQC/c1GpgeseDHrikau5I/5siiJQ7bjLDewM\n83PCv61BUtBU6gx+rkC4nodE9qSg7gUktop+OVWLFIVGCfivDK8TRgTQXK9CD03D\ndqdJfBn8Nseid32dSvG6UwQfGVPVFq/Uv0s3BcEENJ673pGKdOA0jGpPtk5nllEb\nvekzpccDIQKBgQCSjxSaHVO0QXOlwail8l56nn3hkuR8KPM2frbnrgexT9+wqplp\nFFEHI1HprkE5lyiFruEH3z/l708PI2pfNusdTTHXe7Ssx/jycYCF4rYO474G7pNR\nrtk/WYrdIUwawgTUy2KgugrocfgRrjANNT0TEFiQAJ7ql98/CuOQWKpP2wKBgC+W\nWHwLwQdtDrZ2gvq4CautAi6fiElgooXtlZ6YylXsYcBZlNWANrItJW5s6CrgPwML\nJI2PbsXtSdtI6zmHq5Tc2KF6CE4hQ7EMMzS+1i6s5x5pGR4Z3M/1hpa8UuwqgXYe\nPnHkyj9jXPlRr1d9CaXGKT67D+4LnQmKQQcHc9pBAoGBAOdNNyYgdeY3erzhIAp8\nYytkiQGF+pJmYhXweorA2JZT2vuNZu/MTnNce/XlH/QcnjWy4N/oWHC5qU6AlagC\nWf1vQIIYSUbAS6vxy/qGHcWquvVnub6MSjFGTPGzOb3dYYG3wQExhdA9kJq2qJ4s\nZyKBwQSP9LEqiEVcZ+F/iERJ\n-----END PRIVATE KEY-----\n",
+  "client_email": "medassistbot@medassistchatbot-wpds.iam.gserviceaccount.com",
+  "client_id": "101107737097988004103",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/medassistbot%40medassistchatbot-wpds.iam.gserviceaccount.com"
+}
