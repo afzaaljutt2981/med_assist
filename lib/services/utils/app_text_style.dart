@@ -6,7 +6,7 @@ class AppTextStyles{
   static TextStyle popins({TextStyle? style}) {
     return GoogleFonts.poppins(
       textStyle: style,
-    );
+    ); 
   }
 
 }
