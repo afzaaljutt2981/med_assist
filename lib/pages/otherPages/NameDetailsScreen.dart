@@ -17,7 +17,7 @@ class NameDetailsScreen extends StatefulWidget {
 
   @override
   State<NameDetailsScreen> createState() => _NameDetailsScreenState();
-}
+} 
  
 final _formkey = GlobalKey<FormState>();
 
