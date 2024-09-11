@@ -10,7 +10,7 @@ import 'package:med_assist/services/widgets/text_fields.dart';
 import 'package:provider/provider.dart';
 
 import '../../services/providers/RegisterUser.dart';
-import '../authScreens/otpVerification.dart';
+import '../authScreens/otpVerification.dart'; 
 
 class NameDetailsScreen extends StatefulWidget {
   NameDetailsScreen({Key? key,}) : super(key: key);
