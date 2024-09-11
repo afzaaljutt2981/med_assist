@@ -22,7 +22,7 @@ class PatientDrawer extends StatefulWidget {
 // User Details Drawer
 class _PatientDrawerState extends State<PatientDrawer> {
   get screenHeight => MediaQuery.of(context).size.height;
-  get screenWidth => MediaQuery.of(context).size.width;
+  get screenWidth => MediaQuery.of(context).size.width; 
 
   @override
   Widget build(BuildContext context) {
