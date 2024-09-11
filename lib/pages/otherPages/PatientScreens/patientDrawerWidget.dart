@@ -18,7 +18,7 @@ class PatientDrawer extends StatefulWidget {
   @override
   State<PatientDrawer> createState() => _PatientDrawerState();
 } 
-
+ 
 // User Details Drawer
 class _PatientDrawerState extends State<PatientDrawer> {
   get screenHeight => MediaQuery.of(context).size.height;
