@@ -27,7 +27,7 @@ class RegisterPeramedic with ChangeNotifier {
   //     if (event != null) {
   //    await  filterUserProducts();
   //     } else {}
-  //   });
+  //   }); 
   // }
   RegisterPeramedic() {
     if (FirebaseAuth.instance.currentUser != null) {
