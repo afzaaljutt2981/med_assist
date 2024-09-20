@@ -11,7 +11,7 @@ import 'package:med_assist/services/providers/RegisterUser.dart';
 import 'package:med_assist/services/widgets/loadingDialogue.dart';
 import 'package:provider/provider.dart';
 
-Future main() async {
+Future main() async { 
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp();
 
