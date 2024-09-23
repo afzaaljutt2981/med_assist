@@ -14,7 +14,7 @@ class MySplashscreen extends StatefulWidget {
   const MySplashscreen({Key? key, }) : super(key: key);
   @override
   State<MySplashscreen> createState() => _MySplashscreenState();
-}
+} 
 
 class _MySplashscreenState extends State<MySplashscreen> {
   splashServices() {
