@@ -11,7 +11,7 @@ import 'package:provider/provider.dart';
 
 import '../../services/providers/RegisterUser.dart';
 import '../authScreens/otpVerification.dart'; 
-
+ 
 class NameDetailsScreen extends StatefulWidget {
   NameDetailsScreen({Key? key,}) : super(key: key);
 
