@@ -6,7 +6,7 @@
 // class Register with ChangeNotifier {
 //    List<RegisterModel> images = [];
 //   Register(){
-//     getImages();
+//     getImages(); 
 //   }
 //   var currentUserDoc = FirebaseFirestore.instance.collection('images');
 // var image1Doc;
