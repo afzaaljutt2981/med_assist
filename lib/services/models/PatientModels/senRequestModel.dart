@@ -5,7 +5,7 @@ class ServiceModel{
   double latitude;
   double longitude;
   String? imageUrl;
-  int price;
+  int price; 
   String serviceName;
   String? comment;
   int time;
