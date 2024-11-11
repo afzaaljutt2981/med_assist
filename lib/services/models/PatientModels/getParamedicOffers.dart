@@ -6,7 +6,7 @@ class GetParamedicsOffers {
   double latitude;
   double longitude;
   int price;
-  String serviceName;
+  String serviceName; 
   String id;
   String uid;
   bool? patientResponse;
