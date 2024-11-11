@@ -10,6 +10,6 @@ class EndServiceModel{
   Map<String,dynamic> toJson () =>
       {
         "serviceCompleted": serviceCompleted
-
+ 
       };
 }
